@@ -1,5 +1,5 @@
 # Aiden_Youkhana
-This repository has the actual codes for the Maze software
+This repository has the actual codes for the Maze software.
 The Maze is created by the Maze.java file.
 StartSolvingMaze.java can be used to solve any randomaly built Maze.
 
